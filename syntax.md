@@ -200,6 +200,8 @@ You can insert a table of contents using the marker `[TOC]`:
 
 [TOC]
 
+### forktosh
+<img src="http://www.forkosh.com/mathtex.cgi? \Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}">
 
 ### MathJax
 
