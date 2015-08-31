@@ -1,3 +1,5 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
 Welcome to StackEdit!
 ===================
 
@@ -261,4 +263,3 @@ cond(no)->op
   [6]: http://highlightjs.org/
   [7]: http://bramp.github.io/js-sequence-diagrams/
   [8]: http://adrai.github.io/flowchart.js/
-
